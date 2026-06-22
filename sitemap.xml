@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/</loc>
-    <lastmod>2026-06-22</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/impressum.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/datenschutz.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/agb.html</loc>
-    <lastmod>2026-06-22</lastmod>
-    <priority>0.5</priority>
-  </url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/impressum.html</loc><priority>0.5</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/datenschutz.html</loc><priority>0.5</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/agb.html</loc><priority>0.5</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/</loc><priority>0.8</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/mietvertrag-kuendigung-fristen-2026.html</loc><priority>0.7</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/sonderkuendigungsrecht-preiserhoehung.html</loc><priority>0.7</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/kuendigungsfristen-ueberblick.html</loc><priority>0.7</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/feed.xml</loc><priority>0.3</priority></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/faq/kuendigungsfristen.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/faq/sonderkuendigungsrecht.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://creativecodingsolutions.github.io/kuendigungsgenerator/faq/mietvertrag-kuendigen.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
 </urlset>

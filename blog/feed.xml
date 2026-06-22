@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KündigungsGenerator Blog</title>
+    <link>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/</link>
+    <description>Blog und Ratgeber rund um Kündigungen in Deutschland.</description>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 22 Jun 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Mietvertrag fristgerecht kündigen: Alle Fristen und Formalitäten 2026</title>
+      <link>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/mietvertrag-kuendigung-fristen-2026.html</link>
+      <guid>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/mietvertrag-kuendigung-fristen-2026.html</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0200</pubDate>
+      <description>Die Kündigung eines Mietvertrags unterliegt strengen gesetzlichen Vorschriften. Welche Fristen gelten, welche Formvorschriften zu beachten sind und worauf Mieter und Vermieter achten müssen.</description>
+    </item>
+
+    <item>
+      <title>Sonderkündigungsrecht bei Preiserhöhung: Wann Sie sofort kündigen können</title>
+      <link>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/sonderkuendigungsrecht-preiserhoehung.html</link>
+      <guid>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/sonderkuendigungsrecht-preiserhoehung.html</guid>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0200</pubDate>
+      <description>Preiserhöhungen sind ärgerlich, aber oft ein Grund für ein Sonderkündigungsrecht. Wir erklären, bei welchen Vertragsarten Sie außerordentlich kündigen können und wie Sie Ihr Recht durchsetzen.</description>
+    </item>
+
+    <item>
+      <title>Kündigungsfristen in Deutschland: Der vollständige Überblick</title>
+      <link>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/kuendigungsfristen-ueberblick.html</link>
+      <guid>https://creativecodingsolutions.github.io/kuendigungsgenerator/blog/kuendigungsfristen-ueberblick.html</guid>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 +0200</pubDate>
+      <description>Ob Mietvertrag, Arbeitsvertrag, Versicherung oder Handyvertrag – jede Vertragsart hat ihre eigenen Kündigungsfristen. Dieser Artikel gibt einen vollständigen Überblick über alle relevanten Fristen.</description>
+    </item>
+  </channel>
+</rss>
