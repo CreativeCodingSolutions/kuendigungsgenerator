@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AGB – KündigungsGenerator</title>
+<style>
+:root{--primary:#003d7a;--primary-light:#e8f0fe;--accent:#0066b3;--text:#1a1a1a;--text-light:#555;--border:#d0d5dd;--bg:#f5f7fa;--white:#fff;--shadow:0 1px 3px rgba(0,0,0,.08);--radius:6px}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--text);background:var(--bg);line-height:1.7;display:flex;flex-direction:column;min-height:100vh}
+.header{background:var(--primary);color:#fff;padding:1rem 0;border-bottom:3px solid var(--accent)}
+.header-inner{max-width:800px;margin:0 auto;padding:0 1.5rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.5rem}
+.header h1{font-size:1.15rem;font-weight:700}
+.header h1 a{color:#fff;text-decoration:none}
+.header nav{display:flex;gap:1rem}
+.header nav a{color:#fff;text-decoration:none;font-size:.9rem;padding:.3rem 0;border-bottom:2px solid transparent;transition:border-color .2s}
+.header nav a:hover,.header nav a.active{border-bottom-color:#8ab4f8}
+.container{max-width:800px;margin:0 auto;padding:2rem 1.5rem;flex:1}
+.card{background:var(--white);border-radius:var(--radius);box-shadow:var(--shadow);padding:2rem}
+.card h2{font-size:1.25rem;font-weight:600;color:var(--primary);margin-bottom:1.5rem;padding-bottom:.5rem;border-bottom:2px solid var(--primary-light)}
+.card h3{font-size:1rem;font-weight:600;color:var(--primary);margin-top:1.5rem;margin-bottom:.5rem}
+.card p,.card ul,.card ol{font-size:.95rem;margin-bottom:.75rem}
+.card ul,.card ol{padding-left:1.25rem}
+.card ul li,.card ol li{margin-bottom:.3rem}
+.footer{background:var(--primary);color:rgba(255,255,255,.8);padding:1rem 0;margin-top:auto;font-size:.85rem}
+.footer-inner{max-width:800px;margin:0 auto;padding:0 1.5rem;text-align:center}
+.footer a{color:#8ab4f8}
+@media(max-width:600px){.header h1{font-size:1rem}.container{padding:1rem}}
+</style>
+</head>
+<body>
+<header class="header">
+  <div class="header-inner">
+    <h1><a href="index.html">KündigungsGenerator</a></h1>
+    <nav>
+      <a href="index.html">Generator</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="agb.html" class="active">AGB</a>
+    </nav>
+  </div>
+</header>
+<main class="container">
+  <div class="card">
+    <h2>Allgemeine Geschäftsbedingungen (AGB)</h2>
+
+    <h3>§1 Geltungsbereich</h3>
+    <p>Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung des KündigungsGenerators (nachfolgend „Tool“) unter der Domain kuendigungsgenerator.example. Der Betreiber bietet das Tool zur Erstellung von Kündigungsschreiben als kostenlosen Dienst an.</p>
+
+    <h3>§2 Leistungsumfang</h3>
+    <p>Das Tool ermöglicht die Erstellung von Kündigungsschreiben auf Basis von vordefinierten Textbausteinen. Es handelt sich ausschließlich um eine Textvorlage. Der Betreiber übernimmt keine Gewähr für die rechtliche Wirksamkeit, Vollständigkeit oder Aktualität der erstellten Schreiben.</p>
+    <p>Das Tool ersetzt keine anwaltliche Beratung. Bei komplexen Sachverhalten oder rechtlichen Unsicherheiten empfehlen wir die Konsultation eines Rechtsanwalts.</p>
+
+    <h3>§3 Nutzung</h3>
+    <p>Die Nutzung des Tools ist kostenlos und erfolgt auf eigene Verantwortung. Eine Registrierung ist nicht erforderlich. Die vom Nutzer eingegebenen Daten werden ausschließlich lokal im Browser verarbeitet und gespeichert (localStorage). Eine Übermittlung an den Betreiber oder Dritte findet nicht statt.</p>
+
+    <h3>§4 Haftungsausschluss</h3>
+    <p>Der Betreiber haftet nicht für Schäden, die durch die Nutzung des Tools entstehen. Die Haftung beschränkt sich auf Vorsatz und grobe Fahrlässigkeit. Für die Verfügbarkeit des Tools wird keine Gewähr übernommen.</p>
+
+    <h3>§5 Urheberrecht</h3>
+    <p>Das Tool sowie alle dazugehörigen Inhalte sind urheberrechtlich geschützt. Eine Vervielfältigung, Verbreitung oder öffentliche Zugänglichmachung bedarf der vorherigen schriftlichen Zustimmung des Betreibers.</p>
+
+    <h3>§6 Änderungen</h3>
+    <p>Der Betreiber behält sich vor, diese AGB jederzeit zu ändern. Die Änderungen werden dem Nutzer durch Aktualisierung dieser Seite mitgeteilt. Die fortgesetzte Nutzung des Tools nach Änderung der AGB gilt als Zustimmung.</p>
+
+    <h3>§7 Schlussbestimmungen</h3>
+    <p>Es gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. Gerichtsstand ist, soweit zulässig, der Sitz des Betreibers.</p>
+  </div>
+</main>
+<footer class="footer">
+  <div class="footer-inner">
+    <span>&copy; 2026 KündigungsGenerator – Keine Rechtsberatung</span>
+    <br>
+    <a href="index.html">Generator</a> · <a href="https://creativecodingsolutions.github.io/compliancecheck-de/" target="_blank" rel="noopener">ComplianceCheck DE</a> · <a href="https://creativecodingsolutions.github.io/dsgvo-kit/" target="_blank" rel="noopener">DSGVO-Kit</a>
+  </div>
+</footer>
+</body>
+</html>
